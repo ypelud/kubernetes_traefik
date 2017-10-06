@@ -40,7 +40,7 @@ Ouvrir le lien pour vérifier  http://http-svc.dev/
 kubectl scale --replicas=3 deployments/http-svc
 ```
 
-# exemple de path
+# Exemple de path
 ```
 kubectl create -f http-ing.2.yaml
 ```
